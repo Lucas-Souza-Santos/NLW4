@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Lucas-Souza-Santos/NLW4/issues"
   },
-  "homepage": "https://github.com/Lucas-Souza-Santos/NLW4#readme"
+  "homepage": "https://github.com/Lucas-Souza-Santos/NLW4#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
