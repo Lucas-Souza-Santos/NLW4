@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Lucas-Souza-Santos/NLW4#readme",
   "dependencies": {
+    "@types/express": "^4.17.11",
     "express": "^4.17.1"
   }
 }
